@@ -1,6 +1,7 @@
 # Holographic Neural Network with Raytracing
 
-![Holographic Neural Network Visualization](https://via.placeholder.com/800x400.png?text=Holographic+Neural+Network+Visualization)
+![napkin-selection](https://github.com/user-attachments/assets/de3a25ce-9141-4aa3-80a5-1e880fb14f6d)
+
 
 This project implements a novel approach to neural networks using holographic principles and raytracing techniques. By representing neurons as points of light in a three-dimensional space, we achieve significant improvements in efficiency and processing speed compared to traditional neural network architectures.
 
@@ -12,7 +13,8 @@ This project implements a novel approach to neural networks using holographic pr
 - Integration with language models for enhanced responses
 - Knowledge base management with import/export functionality
 
-![Feature Comparison](https://via.placeholder.com/600x400.png?text=Feature+Comparison+Chart)
+![napkin-selection (1)](https://github.com/user-attachments/assets/9739eec9-7104-4680-87cf-f627116985c5)
+
 
 ## Quick Start
 
@@ -52,7 +54,6 @@ Experience the Holographic Neural Network in action:
 
 ## Usage
 
-![Usage Diagram](https://via.placeholder.com/800x600.png?text=Usage+Diagram)
 
 1. **Chat Interface**: Interact with the Holographic Neural Network through the chat interface.
 2. **Learning**: Teach the network new information using the Learn feature.
@@ -62,7 +63,7 @@ Experience the Holographic Neural Network in action:
 
 ## Performance Improvements
 
-![Performance Chart](https://via.placeholder.com/600x400.png?text=Performance+Improvement+Chart)
+![napkin-selection (2)](https://github.com/user-attachments/assets/a8d62b2c-19ba-4a36-892d-7a48870ec42e)
 
 Our Holographic Neural Network shows significant improvements in efficiency and speed:
 
