@@ -18,7 +18,7 @@ This project implements a novel approach to neural networks using holographic pr
 
 Experience the Holographic Neural Network in action:
 
-[![Open in v0.dev](https://via.placeholder.com/200x50.png?text=Open+in+v0.dev)](https://v0.dev/chat/exwtjAXe3uQ?b=b_Hf5p98A9dpg)
+[![Open in v0.dev](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://v0.dev/chat/exwtjAXe3uQ?b=b_Hf5p98A9dpg)
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/yourusername/holographic-neural-network)
 
